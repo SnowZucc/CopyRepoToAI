@@ -1,4 +1,4 @@
-# RepoToAI
+# CopyRepoToAI
 
 This script reads every code file from a specified directory and paste them in the terminal, allowing to copy it into an AI.
 
